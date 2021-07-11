@@ -51,7 +51,7 @@ After the user loses all their balance they will be presented to this UI
 | 1.04 | 6/24/2021 | added hover and coin visual animations to the chests, added four buttons to help user choose Denomination faster, addded hover and coin SFX  |
 | 1.05 | 6/26/2021 | added explosion animation once the player chooses pooper, added background music and explostion SFX |
 | 1.06 | 6/26/2021 | added try again screen once the player runs out of money, added the option to quit or to restart, added try again music |
-
+<!---
 Version 1.00
   - Set up UI and dynamic resizing 
   - worked on the logic behind the game
@@ -82,7 +82,7 @@ Version 1.06
   - added try again screen once the player runs out of money
   - added the option to quit or to restart
   - added try again music
-
+--->
 ## Main scripts (Assets/Scripts):
 
 GameHandler
