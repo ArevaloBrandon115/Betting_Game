@@ -15,7 +15,7 @@ Brandon Arevalo
 <a name="Theme"/>
 
 ## Theme:
-I went for a retro yet futuristic theme for this game
+I went for a retro yet futuristic theme for this game. With a dungeon game type them with the vibe of the olden games I used to play.
 
 ![Image of right side UI](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Images/Full_Game_UI.png?raw=true)
 
