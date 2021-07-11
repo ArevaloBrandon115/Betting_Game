@@ -3,10 +3,23 @@
 ### Author: 
 Brandon Arevalo
 
+# Table of Contents  
+- [Theme of Game](#Theme)  
+- [UI Information](#UI)  
+- [Game Play Video](#Gameplay)  
+- [Version History](#VersionHistory)  
+- [Scripts used](#Scripts)  
+- [Assets used](#Assets)  
+
+
+<a name="Theme"/>
+
 ## Theme:
 I went for a retro yet futuristic theme for this game
 
 ![Image of right side UI](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Images/Full_Game_UI.png?raw=true)
+
+<a name="UI"/>
 
 ## UI:
 
@@ -34,14 +47,16 @@ After the user loses all their balance they will be presented to this UI
 
 ![Image of left side UI](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Images/Restart_Quit_UI.png?raw=true)
 
+<a name="Gameplay"/>
+
 ## Gameplay
 
 ![Alt Text](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Videos/Gameplay_Gif.gif?raw=true)
 
-
-## Versions 1.00 - 1.07:
+<a name="VersionHistory"/>
 
 ## Version history
+
 | Version | Date implement | Description |
 | ------ | ------ | ------ |
 | 1.00 | 6/23/2021 | Set up UI and dynamic resizing, worked on the logic behind the game, desided on colors/theme |
@@ -51,46 +66,18 @@ After the user loses all their balance they will be presented to this UI
 | 1.04 | 6/24/2021 | added hover and coin visual animations to the chests, added four buttons to help user choose Denomination faster, addded hover and coin SFX  |
 | 1.05 | 6/26/2021 | added explosion animation once the player chooses pooper, added background music and explostion SFX |
 | 1.06 | 6/26/2021 | added try again screen once the player runs out of money, added the option to quit or to restart, added try again music |
-<!---
-Version 1.00
-  - Set up UI and dynamic resizing 
-  - worked on the logic behind the game
-  - desided on colors/theme
 
-Version 1.01
-  - added chest sprites
-  - chest animations such as chest wiggle animation
+<a name="Scripts"/>
 
-Version 1.02
-  - added the UI for the round winnings
-  - added the buttons to change the Denomination
-
-Version 1.03
-  - added the current balance
-  - added the play button
-
-Version 1.04
-  - added hover and coin visual animations to the chests
-  - added four buttons to help user choose Denomination faster
-  - addded hover and coin SFX
-
-Version 1.05
-  - added explosion animation once the player chooses pooper
-  - added background music and explostion SFX
-
-Version 1.06
-  - added try again screen once the player runs out of money
-  - added the option to quit or to restart
-  - added try again music
---->
 ## Main scripts (Assets/Scripts):
-
 GameHandler
   - controls the game and its logic
 AudioController
   - controls all sounds added
 Sound
   - helper class for AudioController
+
+<a name="Assets"/>
 
 ## Assets used from Unity Asset store:
 - 2D Flat Explosion by Osama Deep
