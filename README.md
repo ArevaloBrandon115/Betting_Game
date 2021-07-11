@@ -16,7 +16,7 @@ Brandon Arevalo
 
 ## Gameplay
 
-I went for a retro yet futuristic theme for this game. With a dungeon game type them with the vibe of the olden games I used to play.
+I went for a retro music and SFX with futuristic theme for this game visuals. With a dungeon game type them with the vibe of the olden games I used to play.
 
 ![Alt Text](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Videos/Gameplay_Gif.gif?raw=true)
 
