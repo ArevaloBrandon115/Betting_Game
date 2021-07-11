@@ -67,7 +67,7 @@ After the user loses all their balance they will be presented to this UI
 <a name="Scripts"/>
 
 ## Main scripts (Assets/Scripts):
-GameHandler
+GameHandler:
   - controls the game and its logic
 AudioController
   - controls all sounds added
