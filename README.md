@@ -3,16 +3,18 @@
 ### Author: 
 Brandon Arevalo
 
-# Table of Contents  
-- [Theme of Game](#Theme)  
-- [UI Information](#UI)  
-- [Game Play Video](#Gameplay)  
-- [Version History](#VersionHistory)  
-- [Scripts used](#Scripts)  
-- [Assets used](#Assets)  
+# Table of Contents 
+
+  - [Theme of Game](#Theme)  
+  - [UI Information](#UI)  
+  - [Game Play Video](#Gameplay)  
+  - [Version History](#VersionHistory)  
+  - [Scripts used](#Scripts)  
+  - [Assets used](#Assets)  
 
 
 <a name="Theme"/>
+
 
 ## Theme:
 I went for a retro yet futuristic theme for this game. With a dungeon game type them with the vibe of the olden games I used to play.
@@ -66,6 +68,7 @@ After the user loses all their balance they will be presented to this UI
 | 1.04 | 6/24/2021 | added hover and coin visual animations to the chests, added four buttons to help user choose Denomination faster, addded hover and coin SFX  |
 | 1.05 | 6/26/2021 | added explosion animation once the player chooses pooper, added background music and explostion SFX |
 | 1.06 | 6/26/2021 | added try again screen once the player runs out of money, added the option to quit or to restart, added try again music |
+
 
 <a name="Scripts"/>
 
