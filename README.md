@@ -42,15 +42,15 @@ After the user loses all their balance they will be presented to this UI
 ## Versions 1.00 - 1.07:
 
 ## Version history
-| Ver. | Date implement | Description |
-| ------ | -------------- | ------ |
-| v.1.00 | 6/23/2021 | Set up UI and dynamic resizing, worked on the logic behind the game, desided on colors/theme |
-| v.1.01 | 6/23/2021 | added chest sprites, chest animations such as chest wiggle animation |
-| v.1.02 | 6/24/2021 | added the UI for the round winnings, added the buttons to change the Denomination |
-| v.1.03 | 6/24/2021 | added the current balance, added the play button |
-| v.1.04 | 6/24/2021 | added hover and coin visual animations to the chests, added four buttons to help user choose Denomination faster, addded hover and coin SFX  |
-| v.1.05 | 6/26/2021 | added explosion animation once the player chooses pooper, added background music and explostion SFX |
-| v.1.06 | 6/26/2021 | added try again screen once the player runs out of money, added the option to quit or to restart, added try again music |
+| Version | Date implement | Description |
+| ------ | ------ | ------ |
+| 1.00 | 6/23/2021 | Set up UI and dynamic resizing, worked on the logic behind the game, desided on colors/theme |
+| 1.01 | 6/23/2021 | added chest sprites, chest animations such as chest wiggle animation |
+| 1.02 | 6/24/2021 | added the UI for the round winnings, added the buttons to change the Denomination |
+| 1.03 | 6/24/2021 | added the current balance, added the play button |
+| 1.04 | 6/24/2021 | added hover and coin visual animations to the chests, added four buttons to help user choose Denomination faster, addded hover and coin SFX  |
+| 1.05 | 6/26/2021 | added explosion animation once the player chooses pooper, added background music and explostion SFX |
+| 1.06 | 6/26/2021 | added try again screen once the player runs out of money, added the option to quit or to restart, added try again music |
 
 Version 1.00
   - Set up UI and dynamic resizing 
