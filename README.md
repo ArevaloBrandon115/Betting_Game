@@ -5,21 +5,20 @@ Brandon Arevalo
 
 # Table of Contents 
 
-  - [Theme of Game](#Theme)  
+  - [Gameplay](#Gameplay)  
   - [UI Information](#UI)  
-  - [Game Play Video](#Gameplay)  
   - [Version History](#VersionHistory)  
   - [Scripts used](#Scripts)  
   - [Assets used](#Assets)  
 
 
-<a name="Theme"/>
+<a name="Gameplay"/>
 
+## Gameplay
 
-## Theme:
 I went for a retro yet futuristic theme for this game. With a dungeon game type them with the vibe of the olden games I used to play.
 
-![Image of right side UI](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Images/Full_Game_UI.png?raw=true)
+![Alt Text](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Videos/Gameplay_Gif.gif?raw=true)
 
 <a name="UI"/>
 
@@ -48,12 +47,6 @@ After the user loses all their balance they will be presented to this UI
 - quit application
 
 ![Image of left side UI](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Images/Restart_Quit_UI.png?raw=true)
-
-<a name="Gameplay"/>
-
-## Gameplay
-
-![Alt Text](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Videos/Gameplay_Gif.gif?raw=true)
 
 <a name="VersionHistory"/>
 
