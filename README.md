@@ -6,6 +6,8 @@ Brandon Arevalo
 ## Theme:
 I went for a retro yet futuristic theme for this game
 
+![Image of right side UI](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Images/Full_Game_UI.png?raw=true)
+
 ## UI:
 
 On the right going from top to bottom you will see:
@@ -13,12 +15,18 @@ On the right going from top to bottom you will see:
 - four buttons to choose the Denomination
 - increase or decrease buttons for Denomination
 
+![Image of right side UI](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Images/Betting_Amount_UI.png?raw=true)
+
 On the left you see the 
 - chest there is to open once you press play
+
+![Image of left side UI](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Images/Chest_UI.png?raw=true)
 
 On the very bottom you will see your 
 - current balance 
 - play button
+
+![Image of bottom side UI](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Images/Bottom_Play_Button_UI.png?raw=true)
 
 ## Versions 1.00 - 1.07:
 
