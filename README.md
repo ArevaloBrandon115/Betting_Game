@@ -28,6 +28,17 @@ On the very bottom you will see your
 
 ![Image of bottom side UI](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Images/Bottom_Play_Button_UI.png?raw=true)
 
+After the user loses all their balance they will be presented to this UI
+- able to restart
+- quit application
+
+![Image of left side UI](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Images/Restart_Quit_UI.png?raw=true)
+
+## Gameplay
+
+![Alt Text](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Videos/Gameplay_Gif.gif?raw=true)
+
+
 ## Versions 1.00 - 1.07:
 
 Version 1.00
