@@ -23,7 +23,7 @@ Brandon Arevalo
 
 <a name="UI"/>
 
-## UI:
+## UI and explanations:
 
 On the right going from top to bottom you will see:
 - the amount won in the round
