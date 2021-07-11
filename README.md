@@ -1,6 +1,6 @@
 # Betting game read me
 
-## Author: 
+### Author: 
 Brandon Arevalo
 
 ## Theme:
