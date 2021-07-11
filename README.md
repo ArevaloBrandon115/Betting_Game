@@ -1,4 +1,4 @@
-# Betting game read me
+# Betting Game
 
 ### Author: 
 Brandon Arevalo
