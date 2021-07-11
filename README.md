@@ -41,6 +41,20 @@ After the user loses all their balance they will be presented to this UI
 
 ## Versions 1.00 - 1.07:
 
+## Version history
+| Ver. | Date implement | Description |
+| ------ | ------ | ------ |
+| v.1.00 | 6/23/2021 |  
+  - Set up UI and dynamic resizing 
+  - worked on the logic behind the game
+  - desided on colors/theme |
+| v.1.01 | 11/01/2019 | Display Google maps on MainActivity. |
+| v.1.02 | 11/17/2019 | Navigation.xml, TitleFragment, MapFragment displaying the map alone. |
+| v.1.03 | 11/22/2019 | Firebase, review fragments, input options testing. |
+| v.1.04 | 11/26/2019 | LandmarkFragment displaying the landmarks on page.  |
+| v.1.05 | 11/30/2019 | Users can now press and hold to add landmarks and rate the location added. |
+| v.1.06 | 11/27/2019 | Users can now click on landmarks to add a rating. |
+
 Version 1.00
   - Set up UI and dynamic resizing 
   - worked on the logic behind the game
