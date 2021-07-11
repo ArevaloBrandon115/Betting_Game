@@ -16,8 +16,8 @@ Brandon Arevalo
 
 ## Gameplay
 
-I went for a retro music and SFX with futuristic theme for this game visuals.
-I added dungeon game music and SFX for a slight nod to older type games I used to play
+- I went for a retro music and SFX with futuristic theme for this game visuals.
+- I added dungeon game music and SFX for a slight nod to older type games I used to play
 
 ![Alt Text](https://github.com/ArevaloBrandon115/Betting_Game/blob/master/Videos/Gameplay_Gif.gif?raw=true)
 
