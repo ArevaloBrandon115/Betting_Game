@@ -43,7 +43,7 @@ After the user loses all their balance they will be presented to this UI
 
 ## Version history
 | Ver. | Date implement | Description |
-| ------ | ---------- | ------ |
+| ------ | -------------- | ------ |
 | v.1.00 | 6/23/2021 | Set up UI and dynamic resizing, worked on the logic behind the game, desided on colors/theme |
 | v.1.01 | 6/23/2021 | added chest sprites, chest animations such as chest wiggle animation |
 | v.1.02 | 6/24/2021 | added the UI for the round winnings, added the buttons to change the Denomination |
